@@ -1,0 +1,7 @@
+"Epic","Feature","Story","FAILED","BROKEN","PASSED","SKIPPED","UNKNOWN"
+"","SmokeTest","Test_Case_349_Verify that user is able to login successfully.","0","0","1","0","0"
+"","SmokeTest","Test_Case_371_Verify that user is able to navigate to Company Profile grid","0","0","1","0","0"
+"","SmokeTest","Test_Case_373_As a user i verify that verify that user is able to add Company","0","0","1","0","0"
+"","SmokeTest","Test_Case_374_As a user i Verify that user is able to add Facility","0","0","1","0","0"
+"","SmokeTest","Test_Case_376_Verify that user is able to add document.","0","0","1","0","0"
+"","SmokeTest","Test_Case_372_As a user i verify that user is able to click on Add Client button to add client profile.","0","0","1","0","0"

@@ -1,0 +1,207 @@
+{
+  "uid" : "37d918dbce86eee1",
+  "name" : "Test_Case_349_Verify that user is able to login successfully.",
+  "fullName" : "SmokeTest: Test_Case_349_Verify that user is able to login successfully.",
+  "historyId" : "4674f870ccf7b8f9e586117268a2aef1",
+  "time" : {
+    "start" : 1686335949969,
+    "stop" : 1686335996609,
+    "duration" : 46640
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given  Visit the app url",
+      "time" : {
+        "start" : 1686335949973,
+        "stop" : 1686335953462,
+        "duration" : 3489
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "When  I see login page title",
+      "time" : {
+        "start" : 1686335953464,
+        "stop" : 1686335954742,
+        "duration" : 1278
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "67064f5d1a82afb8",
+        "name" : "screenshot",
+        "source" : "67064f5d1a82afb8.png",
+        "type" : "image/png",
+        "size" : 81829
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "And  I enter username",
+      "time" : {
+        "start" : 1686335954743,
+        "stop" : 1686335956104,
+        "duration" : 1361
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "368b66772d8dc9f9",
+        "name" : "screenshot",
+        "source" : "368b66772d8dc9f9.png",
+        "type" : "image/png",
+        "size" : 85299
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "And  I enter password",
+      "time" : {
+        "start" : 1686335956105,
+        "stop" : 1686335957461,
+        "duration" : 1356
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "ef92c0c184295d7b",
+        "name" : "screenshot",
+        "source" : "ef92c0c184295d7b.png",
+        "type" : "image/png",
+        "size" : 83742
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "Then  I click on login button",
+      "time" : {
+        "start" : 1686335957461,
+        "stop" : 1686335994578,
+        "duration" : 37117
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c6ea0c4df619a346",
+        "name" : "screenshot",
+        "source" : "c6ea0c4df619a346.png",
+        "type" : "image/png",
+        "size" : 186532
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "And  I click on session popup cancel button",
+      "time" : {
+        "start" : 1686335994579,
+        "stop" : 1686335996604,
+        "duration" : 2025
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "7778291caf3c00a1",
+        "name" : "screenshot",
+        "source" : "7778291caf3c00a1.png",
+        "type" : "image/png",
+        "size" : 186532
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 5,
+    "stepsCount" : 6,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "StepDefinations.LoginSteps.tearDown(io.cucumber.java.Scenario)",
+    "time" : {
+      "start" : 1686335996605,
+      "stop" : 1686335996608,
+      "duration" : 3
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-B3GNF34"
+  }, {
+    "name" : "thread",
+    "value" : "50052@DESKTOP-B3GNF34.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "SmokeTest"
+  }, {
+    "name" : "story",
+    "value" : "Test_Case_349_Verify that user is able to login successfully."
+  }, {
+    "name" : "suite",
+    "value" : "SmokeTest"
+  }, {
+    "name" : "testClass",
+    "value" : "Test_Case_349_Verify that user is able to login successfully."
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:///C:/Users/User/Desktop/Pharma/QA-Automation/src/test/resources/Features/SmokeTest/SmokeTest.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.resources.Features.SmokeTest.SmokeTest_feature.SmokeTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "37d918dbce86eee1.json",
+  "parameterValues" : [ ]
+}

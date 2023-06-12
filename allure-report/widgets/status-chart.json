@@ -1,0 +1,61 @@
+[ {
+  "uid" : "37d918dbce86eee1",
+  "name" : "Test_Case_349_Verify that user is able to login successfully.",
+  "time" : {
+    "start" : 1686335949969,
+    "stop" : 1686335996609,
+    "duration" : 46640
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cf95371b0a73daf1",
+  "name" : "Test_Case_371_Verify that user is able to navigate to Company Profile grid",
+  "time" : {
+    "start" : 1686335996721,
+    "stop" : 1686336015852,
+    "duration" : 19131
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4fe1c066b81c76ff",
+  "name" : "Test_Case_373_As a user i verify that verify that user is able to add Company",
+  "time" : {
+    "start" : 1686336048137,
+    "stop" : 1686336092682,
+    "duration" : 44545
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "809c8be62f3a82d2",
+  "name" : "Test_Case_374_As a user i Verify that user is able to add Facility",
+  "time" : {
+    "start" : 1686336092697,
+    "stop" : 1686336157913,
+    "duration" : 65216
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f1eaf2a9597b8c08",
+  "name" : "Test_Case_376_Verify that user is able to add document.",
+  "time" : {
+    "start" : 1686336157928,
+    "stop" : 1686336229923,
+    "duration" : 71995
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1c5c2da3c84c3c42",
+  "name" : "Test_Case_372_As a user i verify that user is able to click on Add Client button to add client profile.",
+  "time" : {
+    "start" : 1686336015890,
+    "stop" : 1686336048116,
+    "duration" : 32226
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

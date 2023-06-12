@@ -1,0 +1,234 @@
+{
+  "uid" : "4fe1c066b81c76ff",
+  "name" : "Test_Case_373_As a user i verify that verify that user is able to add Company",
+  "fullName" : "SmokeTest: Test_Case_373_As a user i verify that verify that user is able to add Company",
+  "historyId" : "1f5894c42afeb14e4aba2a1bb3d207a7",
+  "time" : {
+    "start" : 1686336048137,
+    "stop" : 1686336092682,
+    "duration" : 44545
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Then  I click on dashboard grid",
+      "time" : {
+        "start" : 1686336048137,
+        "stop" : 1686336063197,
+        "duration" : 15060
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "20042fdf4263743e",
+        "name" : "screenshot",
+        "source" : "20042fdf4263743e.png",
+        "type" : "image/png",
+        "size" : 224167
+      }, {
+        "uid" : "34e94f206a1f7d86",
+        "name" : "screenshot",
+        "source" : "34e94f206a1f7d86.png",
+        "type" : "image/png",
+        "size" : 224264
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "Then  I click on company profile menu",
+      "time" : {
+        "start" : 1686336063197,
+        "stop" : 1686336067404,
+        "duration" : 4207
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Then  I double click on added client",
+      "time" : {
+        "start" : 1686336067404,
+        "stop" : 1686336082738,
+        "duration" : 15334
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Then  I click on add company button",
+      "time" : {
+        "start" : 1686336082738,
+        "stop" : 1686336085871,
+        "duration" : 3133
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "And  I enter company name",
+      "time" : {
+        "start" : 1686336085871,
+        "stop" : 1686336086154,
+        "duration" : 283
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Then  I select company status",
+      "time" : {
+        "start" : 1686336086154,
+        "stop" : 1686336086272,
+        "duration" : 118
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Then  I click on company save button",
+      "time" : {
+        "start" : 1686336086272,
+        "stop" : 1686336089406,
+        "duration" : 3134
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "And  I see company save success popup and click on ok button",
+      "time" : {
+        "start" : 1686336089406,
+        "stop" : 1686336092580,
+        "duration" : 3174
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "And  I see the newly added company is reflected under the company dropdown section",
+      "time" : {
+        "start" : 1686336092580,
+        "stop" : 1686336092682,
+        "duration" : 102
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2,
+    "stepsCount" : 9,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "StepDefinations.LoginSteps.tearDown(io.cucumber.java.Scenario)",
+    "time" : {
+      "start" : 1686336092682,
+      "stop" : 1686336092682,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-B3GNF34"
+  }, {
+    "name" : "thread",
+    "value" : "50052@DESKTOP-B3GNF34.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "SmokeTest"
+  }, {
+    "name" : "story",
+    "value" : "Test_Case_373_As a user i verify that verify that user is able to add Company"
+  }, {
+    "name" : "suite",
+    "value" : "SmokeTest"
+  }, {
+    "name" : "testClass",
+    "value" : "Test_Case_373_As a user i verify that verify that user is able to add Company"
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:///C:/Users/User/Desktop/Pharma/QA-Automation/src/test/resources/Features/SmokeTest/SmokeTest.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.resources.Features.SmokeTest.SmokeTest_feature.SmokeTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4fe1c066b81c76ff.json",
+  "parameterValues" : [ ]
+}

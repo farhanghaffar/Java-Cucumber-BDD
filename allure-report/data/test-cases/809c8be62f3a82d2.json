@@ -1,0 +1,264 @@
+{
+  "uid" : "809c8be62f3a82d2",
+  "name" : "Test_Case_374_As a user i Verify that user is able to add Facility",
+  "fullName" : "SmokeTest: Test_Case_374_As a user i Verify that user is able to add Facility",
+  "historyId" : "6c98c6a0d30b88ebfaad644fbe3b1e6f",
+  "time" : {
+    "start" : 1686336092697,
+    "stop" : 1686336157913,
+    "duration" : 65216
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Then  I click on dashboard grid",
+      "time" : {
+        "start" : 1686336092697,
+        "stop" : 1686336107330,
+        "duration" : 14633
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "eb6a5dd18ca4d6dc",
+        "name" : "screenshot",
+        "source" : "eb6a5dd18ca4d6dc.png",
+        "type" : "image/png",
+        "size" : 224167
+      }, {
+        "uid" : "12567c0d360e21af",
+        "name" : "screenshot",
+        "source" : "12567c0d360e21af.png",
+        "type" : "image/png",
+        "size" : 224264
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "Then  I click on company profile menu",
+      "time" : {
+        "start" : 1686336107330,
+        "stop" : 1686336111308,
+        "duration" : 3978
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "And  I see the company profile page title",
+      "time" : {
+        "start" : 1686336111309,
+        "stop" : 1686336111365,
+        "duration" : 56
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Then  I double click on added client",
+      "time" : {
+        "start" : 1686336111365,
+        "stop" : 1686336126688,
+        "duration" : 15323
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "And  I double click on added company",
+      "time" : {
+        "start" : 1686336126688,
+        "stop" : 1686336141958,
+        "duration" : 15270
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "And  I click on facility add plus button",
+      "time" : {
+        "start" : 1686336141958,
+        "stop" : 1686336145107,
+        "duration" : 3149
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "And  I enter facility name",
+      "time" : {
+        "start" : 1686336145107,
+        "stop" : 1686336145408,
+        "duration" : 301
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Then  I select facility status",
+      "time" : {
+        "start" : 1686336145408,
+        "stop" : 1686336151542,
+        "duration" : 6134
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Then  I click on facility save button",
+      "time" : {
+        "start" : 1686336151542,
+        "stop" : 1686336154678,
+        "duration" : 3136
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "And  I see facility save success popup and click on ok button",
+      "time" : {
+        "start" : 1686336154679,
+        "stop" : 1686336157843,
+        "duration" : 3164
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "And  I see newly added facility saved successfully",
+      "time" : {
+        "start" : 1686336157843,
+        "stop" : 1686336157913,
+        "duration" : 70
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2,
+    "stepsCount" : 11,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "StepDefinations.LoginSteps.tearDown(io.cucumber.java.Scenario)",
+    "time" : {
+      "start" : 1686336157913,
+      "stop" : 1686336157913,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-B3GNF34"
+  }, {
+    "name" : "thread",
+    "value" : "50052@DESKTOP-B3GNF34.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "SmokeTest"
+  }, {
+    "name" : "story",
+    "value" : "Test_Case_374_As a user i Verify that user is able to add Facility"
+  }, {
+    "name" : "suite",
+    "value" : "SmokeTest"
+  }, {
+    "name" : "testClass",
+    "value" : "Test_Case_374_As a user i Verify that user is able to add Facility"
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:///C:/Users/User/Desktop/Pharma/QA-Automation/src/test/resources/Features/SmokeTest/SmokeTest.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.resources.Features.SmokeTest.SmokeTest_feature.SmokeTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "809c8be62f3a82d2.json",
+  "parameterValues" : [ ]
+}

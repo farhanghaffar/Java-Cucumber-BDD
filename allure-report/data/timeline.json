@@ -1,0 +1,91 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-B3GNF34",
+    "children" : [ {
+      "name" : "50052@DESKTOP-B3GNF34.main(1)",
+      "children" : [ {
+        "name" : "Test_Case_376_Verify that user is able to add document.",
+        "uid" : "f1eaf2a9597b8c08",
+        "parentUid" : "ee26a94461289f0dbc31f26854101dc8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1686336157928,
+          "stop" : 1686336229923,
+          "duration" : 71995
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test_Case_372_As a user i verify that user is able to click on Add Client button to add client profile.",
+        "uid" : "1c5c2da3c84c3c42",
+        "parentUid" : "ee26a94461289f0dbc31f26854101dc8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1686336015890,
+          "stop" : 1686336048116,
+          "duration" : 32226
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test_Case_349_Verify that user is able to login successfully.",
+        "uid" : "37d918dbce86eee1",
+        "parentUid" : "ee26a94461289f0dbc31f26854101dc8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1686335949969,
+          "stop" : 1686335996609,
+          "duration" : 46640
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test_Case_371_Verify that user is able to navigate to Company Profile grid",
+        "uid" : "cf95371b0a73daf1",
+        "parentUid" : "ee26a94461289f0dbc31f26854101dc8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1686335996721,
+          "stop" : 1686336015852,
+          "duration" : 19131
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test_Case_374_As a user i Verify that user is able to add Facility",
+        "uid" : "809c8be62f3a82d2",
+        "parentUid" : "ee26a94461289f0dbc31f26854101dc8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1686336092697,
+          "stop" : 1686336157913,
+          "duration" : 65216
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test_Case_373_As a user i verify that verify that user is able to add Company",
+        "uid" : "4fe1c066b81c76ff",
+        "parentUid" : "ee26a94461289f0dbc31f26854101dc8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1686336048137,
+          "stop" : 1686336092682,
+          "duration" : 44545
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ee26a94461289f0dbc31f26854101dc8"
+    } ],
+    "uid" : "aea92d9f2817dd5e542cca7d8475510a"
+  } ]
+}

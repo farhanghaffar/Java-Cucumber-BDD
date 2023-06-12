@@ -1,0 +1,111 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "SmokeTest",
+    "children" : [ {
+      "name" : "Test_Case_349_Verify that user is able to login successfully.",
+      "children" : [ {
+        "name" : "Test_Case_349_Verify that user is able to login successfully.",
+        "uid" : "37d918dbce86eee1",
+        "parentUid" : "5436681be880a75651af18682fa99696",
+        "status" : "passed",
+        "time" : {
+          "start" : 1686335949969,
+          "stop" : 1686335996609,
+          "duration" : 46640
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5436681be880a75651af18682fa99696"
+    }, {
+      "name" : "Test_Case_371_Verify that user is able to navigate to Company Profile grid",
+      "children" : [ {
+        "name" : "Test_Case_371_Verify that user is able to navigate to Company Profile grid",
+        "uid" : "cf95371b0a73daf1",
+        "parentUid" : "c915b78e4dd518f6284fb3599bcfd164",
+        "status" : "passed",
+        "time" : {
+          "start" : 1686335996721,
+          "stop" : 1686336015852,
+          "duration" : 19131
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c915b78e4dd518f6284fb3599bcfd164"
+    }, {
+      "name" : "Test_Case_372_As a user i verify that user is able to click on Add Client button to add client profile.",
+      "children" : [ {
+        "name" : "Test_Case_372_As a user i verify that user is able to click on Add Client button to add client profile.",
+        "uid" : "1c5c2da3c84c3c42",
+        "parentUid" : "b8c9427b53440eb836169ea8a19e00ec",
+        "status" : "passed",
+        "time" : {
+          "start" : 1686336015890,
+          "stop" : 1686336048116,
+          "duration" : 32226
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b8c9427b53440eb836169ea8a19e00ec"
+    }, {
+      "name" : "Test_Case_373_As a user i verify that verify that user is able to add Company",
+      "children" : [ {
+        "name" : "Test_Case_373_As a user i verify that verify that user is able to add Company",
+        "uid" : "4fe1c066b81c76ff",
+        "parentUid" : "26cac0fd86bebdfb68e723367bd87f83",
+        "status" : "passed",
+        "time" : {
+          "start" : 1686336048137,
+          "stop" : 1686336092682,
+          "duration" : 44545
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "26cac0fd86bebdfb68e723367bd87f83"
+    }, {
+      "name" : "Test_Case_374_As a user i Verify that user is able to add Facility",
+      "children" : [ {
+        "name" : "Test_Case_374_As a user i Verify that user is able to add Facility",
+        "uid" : "809c8be62f3a82d2",
+        "parentUid" : "95a551dcbdf277b68e0a929c828818ac",
+        "status" : "passed",
+        "time" : {
+          "start" : 1686336092697,
+          "stop" : 1686336157913,
+          "duration" : 65216
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "95a551dcbdf277b68e0a929c828818ac"
+    }, {
+      "name" : "Test_Case_376_Verify that user is able to add document.",
+      "children" : [ {
+        "name" : "Test_Case_376_Verify that user is able to add document.",
+        "uid" : "f1eaf2a9597b8c08",
+        "parentUid" : "73364858d13e3b09448b5ea8b6516652",
+        "status" : "passed",
+        "time" : {
+          "start" : 1686336157928,
+          "stop" : 1686336229923,
+          "duration" : 71995
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "73364858d13e3b09448b5ea8b6516652"
+    } ],
+    "uid" : "2d03506a46ddb95ae4ce8531929f4629"
+  } ]
+}

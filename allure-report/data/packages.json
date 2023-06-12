@@ -1,0 +1,87 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "src.test.resources.Features.SmokeTest.SmokeTest_feature.SmokeTest",
+    "children" : [ {
+      "name" : "Test_Case_349_Verify that user is able to login successfully.",
+      "uid" : "37d918dbce86eee1",
+      "parentUid" : "293329cef635c6b87fd7c79f8d7b4e0c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1686335949969,
+        "stop" : 1686335996609,
+        "duration" : 46640
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Test_Case_371_Verify that user is able to navigate to Company Profile grid",
+      "uid" : "cf95371b0a73daf1",
+      "parentUid" : "293329cef635c6b87fd7c79f8d7b4e0c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1686335996721,
+        "stop" : 1686336015852,
+        "duration" : 19131
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Test_Case_372_As a user i verify that user is able to click on Add Client button to add client profile.",
+      "uid" : "1c5c2da3c84c3c42",
+      "parentUid" : "293329cef635c6b87fd7c79f8d7b4e0c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1686336015890,
+        "stop" : 1686336048116,
+        "duration" : 32226
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Test_Case_373_As a user i verify that verify that user is able to add Company",
+      "uid" : "4fe1c066b81c76ff",
+      "parentUid" : "293329cef635c6b87fd7c79f8d7b4e0c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1686336048137,
+        "stop" : 1686336092682,
+        "duration" : 44545
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Test_Case_374_As a user i Verify that user is able to add Facility",
+      "uid" : "809c8be62f3a82d2",
+      "parentUid" : "293329cef635c6b87fd7c79f8d7b4e0c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1686336092697,
+        "stop" : 1686336157913,
+        "duration" : 65216
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Test_Case_376_Verify that user is able to add document.",
+      "uid" : "f1eaf2a9597b8c08",
+      "parentUid" : "293329cef635c6b87fd7c79f8d7b4e0c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1686336157928,
+        "stop" : 1686336229923,
+        "duration" : 71995
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "src.test.resources.Features.SmokeTest.SmokeTest_feature.SmokeTest"
+  } ]
+}

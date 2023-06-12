@@ -1,0 +1,309 @@
+{
+  "uid" : "f1eaf2a9597b8c08",
+  "name" : "Test_Case_376_Verify that user is able to add document.",
+  "fullName" : "SmokeTest: Test_Case_376_Verify that user is able to add document.",
+  "historyId" : "97bc1ca0619ec484067b0b2ebbb407bd",
+  "time" : {
+    "start" : 1686336157928,
+    "stop" : 1686336229923,
+    "duration" : 71995
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Then  I click on dashboard grid",
+      "time" : {
+        "start" : 1686336157928,
+        "stop" : 1686336172523,
+        "duration" : 14595
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "da91676b5f6366dc",
+        "name" : "screenshot",
+        "source" : "da91676b5f6366dc.png",
+        "type" : "image/png",
+        "size" : 224167
+      }, {
+        "uid" : "9db613f95d854bfe",
+        "name" : "screenshot",
+        "source" : "9db613f95d854bfe.png",
+        "type" : "image/png",
+        "size" : 224264
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "Then  I click on documents menu button",
+      "time" : {
+        "start" : 1686336172523,
+        "stop" : 1686336177864,
+        "duration" : 5341
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "d1d55ba9e3a0cc6f",
+        "name" : "screenshot",
+        "source" : "d1d55ba9e3a0cc6f.png",
+        "type" : "image/png",
+        "size" : 113519
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "And  I see the document page",
+      "time" : {
+        "start" : 1686336177864,
+        "stop" : 1686336179051,
+        "duration" : 1187
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "7e85fb1b79b5b77b",
+        "name" : "screenshot",
+        "source" : "7e85fb1b79b5b77b.png",
+        "type" : "image/png",
+        "size" : 113519
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "And  I select client on document page",
+      "time" : {
+        "start" : 1686336179051,
+        "stop" : 1686336180335,
+        "duration" : 1284
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "cf03f24a0b061c0c",
+        "name" : "screenshot",
+        "source" : "cf03f24a0b061c0c.png",
+        "type" : "image/png",
+        "size" : 115187
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "Then  I click on upload document button",
+      "time" : {
+        "start" : 1686336180336,
+        "stop" : 1686336188686,
+        "duration" : 8350
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "2fea6fc47c482302",
+        "name" : "screenshot",
+        "source" : "2fea6fc47c482302.png",
+        "type" : "image/png",
+        "size" : 143470
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "And  I upload document",
+      "time" : {
+        "start" : 1686336188686,
+        "stop" : 1686336193124,
+        "duration" : 4438
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "843c198979474752",
+        "name" : "screenshot",
+        "source" : "843c198979474752.png",
+        "type" : "image/png",
+        "size" : 121965
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "Then  I see the document details saved successfully popup",
+      "time" : {
+        "start" : 1686336193124,
+        "stop" : 1686336194319,
+        "duration" : 1195
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "fdf549410475ff27",
+        "name" : "screenshot",
+        "source" : "fdf549410475ff27.png",
+        "type" : "image/png",
+        "size" : 121965
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "Then  I click on document details saved successfully popup ok button",
+      "time" : {
+        "start" : 1686336194319,
+        "stop" : 1686336198591,
+        "duration" : 4272
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "9808a5cc4bc9d922",
+        "name" : "screenshot",
+        "source" : "9808a5cc4bc9d922.png",
+        "type" : "image/png",
+        "size" : 119200
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "Then  I see the document uploaded",
+      "time" : {
+        "start" : 1686336198591,
+        "stop" : 1686336202949,
+        "duration" : 4358
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "eb7e21012ff45f0b",
+        "name" : "screenshot",
+        "source" : "eb7e21012ff45f0b.png",
+        "type" : "image/png",
+        "size" : 192492
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "Then  I delete uploaded file",
+      "time" : {
+        "start" : 1686336202949,
+        "stop" : 1686336229922,
+        "duration" : 26973
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "95dcffd4e349f80e",
+        "name" : "screenshot",
+        "source" : "95dcffd4e349f80e.png",
+        "type" : "image/png",
+        "size" : 187076
+      }, {
+        "uid" : "9f09a95f30139c1",
+        "name" : "screenshot",
+        "source" : "9f09a95f30139c1.png",
+        "type" : "image/png",
+        "size" : 187076
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 12,
+    "stepsCount" : 10,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "StepDefinations.LoginSteps.tearDown(io.cucumber.java.Scenario)",
+    "time" : {
+      "start" : 1686336229922,
+      "stop" : 1686336229923,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-B3GNF34"
+  }, {
+    "name" : "thread",
+    "value" : "50052@DESKTOP-B3GNF34.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "SmokeTest"
+  }, {
+    "name" : "story",
+    "value" : "Test_Case_376_Verify that user is able to add document."
+  }, {
+    "name" : "suite",
+    "value" : "SmokeTest"
+  }, {
+    "name" : "testClass",
+    "value" : "Test_Case_376_Verify that user is able to add document."
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:///C:/Users/User/Desktop/Pharma/QA-Automation/src/test/resources/Features/SmokeTest/SmokeTest.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.resources.Features.SmokeTest.SmokeTest_feature.SmokeTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f1eaf2a9597b8c08.json",
+  "parameterValues" : [ ]
+}
